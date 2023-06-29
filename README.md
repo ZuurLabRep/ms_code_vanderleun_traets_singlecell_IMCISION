@@ -10,4 +10,5 @@ Code belonging to the manuscript "Dual immune checkpoint blockade induces analog
 
 ### References
 Baran, Y., Bercovich, A., Sebe-Pedros, A., Lubling, Y., Giladi, A., Chomsky, E., Meir, Z., Hoichman, M., Lifshitz, A., & Tanay, A. (2019). MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions. Genome biology, 20(1), 206. https://doi.org/10.1186/s13059-019-1812-2
+
 Kürten, C. H. L., Kulkarni, A., Cillo, A. R., Santos, P. M., Roble, A. K., Onkar, S., Reeder, C., Lang, S., Chen, X., Duvvuri, U., Kim, S., Liu, A., Tabib, T., Lafyatis, R., Feng, J., Gao, S. J., Bruno, T. C., Vignali, D. A. A., Lu, X., Bao, R., … Ferris, R. L. (2021). Investigating immune and non-immune cell interactions in head and neck tumors by single-cell RNA sequencing. Nature communications, 12(1), 7338. https://doi.org/10.1038/s41467-021-27619-4
