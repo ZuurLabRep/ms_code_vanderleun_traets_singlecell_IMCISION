@@ -62,7 +62,7 @@ mel_build_blacklist_gsets_by_gene_nms_ann = function(all_id)
   
   # mitochondrial gene set
   mt_cands = grep("^MT-|^MTRN|^MTAT|^MTND|^MRP", full_m@genes, v=T, perl=T)
-  mito = data.table::fread("./config_files/input/MitoCarta2_human.txt", header=T, sep="\t", stringsAsFactors=F)
+  mito = data.table::fread("./config_files/MitoCarta2_human.txt", header=T, sep="\t", stringsAsFactors=F)
   mt_both = intersect(mt_cands, mito$Symbol)
   mt_cands = setdiff(mt_cands, mt_both)
   mitocarta = setdiff(mito$Symbol, mt_both)
