@@ -5,11 +5,8 @@
 
 ###### load data and source code ######
 
-# load from laptop
+# load data
 setwd("/DATA/project")
-
-# load from MC0123
-#setwd("/Users/a.vd.leun/surfdrive/Metacell/IMCISION/HN_full_dataset/")
 
 source("Functions_hn_full.R")
 tbk_reload()
@@ -82,5 +79,5 @@ lateral_gset_tcrs_id = paste0(lateral_gset_id, "_tcrs")
 scdb_add_gset(lateral_gset_tcrs_id, lateral_gset_mel)
 mcell_gset_add_gene(lateral_gset_tcrs_id, tcr_genes, 4)
 
-##### TAKE TO THE SERVER ######
+
 

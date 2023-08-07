@@ -74,7 +74,7 @@ mat_S2 = scdb_mat(mat_id_S2)
 
 
 ############### SCHN_04 ####################
-setwd("/Users/a.vd.leun/surfdrive/Metacell/IMCISION/HN_full_dataset")
+setwd("/DATA/project")
 
 # load data
 data = load("HN_full_dataset_scdb/ori_objects_online_only/GEX_VDJ_5954.Rda")
