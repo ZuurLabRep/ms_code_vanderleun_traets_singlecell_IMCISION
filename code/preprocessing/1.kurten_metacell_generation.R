@@ -6,7 +6,7 @@
 # using feature genes generated in the single cell IMCISION processing with Metacell
 setwd("/DATA/project")
 source("./code/Figures_general_functions.R")
-source("./code/Functions_reprocessing_metacell.R")
+source("./code/Functions_preprocessing_metacell.R")
 tbk_reload()
 
 if(!dir.exists("figures/Figures_Kurten")) dir.create("Figures_Kurten/") 
