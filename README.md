@@ -8,7 +8,7 @@ Code belonging to the manuscript "Dual immune checkpoint blockade induces analog
 3. Code related to the preprocessing of the Kurten et al. (Kürten et al. 2021) data can be found in the **code/preprocessing** folder, `1.kurten_metacell_generation.R`
 
 ### Data
-- The processed single cell RNA sequencing data and clonotype information have been deposited in the NCBI GEO database (**GSE232240**).
+- The processed single cell RNA sequencing data and clonotype information have been deposited in the NCBI GEO database (**GSE232240**). Count and annotation data are equal to the combined seurat objects in the preprocessing step in 1.separate_objects.R.
 - The raw single cell RNA sequencing and TCR sequencing data have been deposited in the EGA database (**EGAS00001007367** & **EGAS00001007368**).
 
 ### Notes
