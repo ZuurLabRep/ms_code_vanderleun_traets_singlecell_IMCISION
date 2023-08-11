@@ -15,7 +15,7 @@ Code belonging to the manuscript "Dual immune checkpoint blockade induces analog
 - All code was written in R in Rstudio (v4.0.2). 
 
 ### References
-ref
+van der Leun, A. M., Traets, J. J. H., Vos, J. L., Elbers, J. B. W., Patiwael, S., Qiao, X., Machuca-Ostos, M., Thommen, D. S., Haanen, J. B. A. G., Schumacher, T. N. M., & Zuur, C. L. (2023). Dual immune checkpoint blockade induces analogous alterations in the dysfunctional CD8+ T cell and activated Treg compartment. Cancer discovery, CD-22-0851. Advance online publication. https://doi.org/10.1158/2159-8290.CD-22-0851
 
 Baran, Y., Bercovich, A., Sebe-Pedros, A., Lubling, Y., Giladi, A., Chomsky, E., Meir, Z., Hoichman, M., Lifshitz, A., & Tanay, A. (2019). MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions. Genome biology, 20(1), 206. https://doi.org/10.1186/s13059-019-1812-2
 
