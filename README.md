@@ -15,7 +15,7 @@ Code belonging to the manuscript "Dual immune checkpoint blockade induces analog
 - All code was written in R in Rstudio (v4.0.2). 
 
 ### References
-ref paper
+ref
 
 Baran, Y., Bercovich, A., Sebe-Pedros, A., Lubling, Y., Giladi, A., Chomsky, E., Meir, Z., Hoichman, M., Lifshitz, A., & Tanay, A. (2019). MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions. Genome biology, 20(1), 206. https://doi.org/10.1186/s13059-019-1812-2
 
